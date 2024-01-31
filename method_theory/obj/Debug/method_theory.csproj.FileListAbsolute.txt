@@ -1,0 +1,8 @@
+C:\Users\Ilnaz.Farhullin\Desktop\method_theory\method_theory\bin\Debug\method_theory.exe.config
+C:\Users\Ilnaz.Farhullin\Desktop\method_theory\method_theory\bin\Debug\method_theory.exe
+C:\Users\Ilnaz.Farhullin\Desktop\method_theory\method_theory\bin\Debug\method_theory.pdb
+C:\Users\Ilnaz.Farhullin\Desktop\method_theory\method_theory\obj\Debug\method_theory.csproj.AssemblyReference.cache
+C:\Users\Ilnaz.Farhullin\Desktop\method_theory\method_theory\obj\Debug\method_theory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilnaz.Farhullin\Desktop\method_theory\method_theory\obj\Debug\method_theory.csproj.CoreCompileInputs.cache
+C:\Users\Ilnaz.Farhullin\Desktop\method_theory\method_theory\obj\Debug\method_theory.exe
+C:\Users\Ilnaz.Farhullin\Desktop\method_theory\method_theory\obj\Debug\method_theory.pdb

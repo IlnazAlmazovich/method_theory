@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\method_theory\method_theory_3\bin\Debug\method_theory_3.exe.config
+C:\Users\Пользователь\Desktop\method_theory\method_theory_3\bin\Debug\method_theory_3.exe
+C:\Users\Пользователь\Desktop\method_theory\method_theory_3\bin\Debug\method_theory_3.pdb
+C:\Users\Пользователь\Desktop\method_theory\method_theory_3\obj\Debug\method_theory_3.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\method_theory\method_theory_3\obj\Debug\method_theory_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\method_theory\method_theory_3\obj\Debug\method_theory_3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\method_theory\method_theory_3\obj\Debug\method_theory_3.exe
+C:\Users\Пользователь\Desktop\method_theory\method_theory_3\obj\Debug\method_theory_3.pdb
